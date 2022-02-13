@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gombos14
-- 👀 I’m interested in Computer Sience.
+- 👀 I’m interested in Computer Science.
 - 🌱 I’m currently learning Software Architecture, Artificial Intelligence, Data Structures and Algorithms.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
